@@ -131,7 +131,7 @@ const CozeMainComponent = () => {
           Utility Tool
         </Button>
         <Button onClick={() => setTab(5)} colorScheme="teal" size="sm">
-          Social
+          Web Search
         </Button>
       </Flex>
       <Grid templateColumns="repeat(5, 1fr)" gap={6} mt={"20px"}>
